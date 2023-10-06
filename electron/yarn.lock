@@ -455,10 +455,10 @@ electron-wix-msi@^4.0.0:
   optionalDependencies:
     "@bitdisaster/exe-icon-extractor" "^1.0.10"
 
-electron@^18.0.0:
-  version "18.2.2"
-  resolved "https://registry.npmjs.org/electron/-/electron-18.2.2.tgz"
-  integrity sha512-o9/9+ntxZ0RoVtllH1e9FDLiCLVg00EO8AJZoCR1cVt7l7AVpRgynZdSczaUtTb9XJpWv7U02R6hoWALl55opQ==
+electron@^18.3.6:
+  version "18.3.15"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-18.3.15.tgz#5ffe24b9dbd0fe433c246b454f39f1dcdb1cf3f0"
+  integrity sha512-frkBt8skyo8SmlG4TbByDxZw6/tqttRYYIBaeTBfkoG18OyD59IVwVaXXHO8UYKB5/1C2Rce0Gj6uoxlAHQHzQ==
   dependencies:
     "@electron/get" "^1.13.0"
     "@types/node" "^16.11.26"
